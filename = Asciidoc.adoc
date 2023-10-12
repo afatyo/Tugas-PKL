@@ -1,0 +1,25 @@
+= Asciidoc
+
+Asciidoc termasuk dalam keluarga Bahasa markup ringan. Yang paling terkenal adalah Makrdown. Asciidoc menonjol dari grup ini karena mendukung semua elemen structural yang di perlukan untuk Menyusun artikel, manual teknis, buku, presentasi, dan prosa. Faktanya ia mampu memenuhi persyaratan penerbitan dan semantik teknis paling canggih sekalipun
+
+=== Aciidoc adalah dua hal
+
+* Format penulisan teks bisa yang matang untuk menulis catatan, artikel, dokumentasi, buku, ebook, halaman web, slide deck, postingan blog, halaman manual, dan banyak lagi.
+    
+* Pemroses teks dan rantai alat untuk menerjemahkan dokumen Asciidoc ke dalam berbagai format (disebut backend), termasuk HTML, DocBook, PDF, dan ePub.
+Apa itu Asciidoc ?
+
+Asciidoc adalah Bahasa pemograman yang menggunakan teks biasa untuk membangun struktur dan konten dokumen. Mirip dengan Markdown, Asciidoc menggunakan symbol dan sintaks sederhana untuk memformat teks. Namun, Asciidoc lebih kaya fitur dan dapat menangani dokumen yang lebih kompleks, termasuk buku, laporan, dan artikel Panjang.
+
+Untuk menggunakan Asciidoc, Anda cukup memerlukan teks editor dan pengetahuan dasar tentang sintaksis Asciidoc. Ada juga berbagai alat dan converter online yang dapat membantu mengahsilkan output dalam berbagai format.
+
+=== Keunggulan Asciidoc
+
+* Kekuatan dan Flesibilitas: Asciidoc memungkinkan penulis untuk menciptakan document dengan tingkat komplektisitas yang tinggi.
+* Berkas sumber yang dapat dikelola dengan mudah: Dokumen Asciidoc adalah berkas teks biasa yang dapat diubah dan dikelola menggunakan editor teks sederhana.
+* Keluaran yang konsisten: Asciidoc dapat diubah menjadi berbagai format keluaran, termasuk HTML,PDF,EPUB, dan banyak lagi.
+
+=== Kesimpulan
+Asciidoc merupakan Bahasa pemograman yang menggunakan teks biasa untuk membangun struktur dan konten dokumen. Dengan sintaks yang mudah dipahami dan kemampuan output yang konsisten.
+
+ 
